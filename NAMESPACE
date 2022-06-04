@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "bw.nrd0", "glm")
+export(MDIF,RENAME,denPre2D)

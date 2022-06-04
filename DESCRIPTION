@@ -1,0 +1,19 @@
+Package: NeRiT
+Type: Package
+Title: Network Regression Analysis in TWAS
+Version: 0.1.1
+Authors@R: c(
+    person("Xiuyuana", "Jin", , "xiuyuanjin@sdu.edu.cn", role = c("aut", "cre"))
+  )
+Author: Xiuyuan Jin
+Maintainer: The package maintainer <jinxiuyuan@mail.sdu.edu.cn>
+Description: It implements network regression analysis in TWAS.
+Encoding: UTF-8
+Depends: R (>= 3.5.0)
+Imports: data.table, KernSmooth, akima
+LazyData: Yes
+LazyLoad: Yes
+LazyDataCompression: xz
+RoxygenNote: 7.2.0
+NeedsCompilation: no
+Packaged: 2022-06-04 02:02:30 UTC; user
