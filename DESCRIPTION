@@ -3,7 +3,7 @@ Type: Package
 Title: Network Regression Analysis in TWAS
 Version: 0.1.1
 Authors@R: c(
-    person("Xiuyuana", "Jin", , "xiuyuanjin@sdu.edu.cn", role = c("aut", "cre"))
+    person("Xiuyuana", "Jin", , "jinxiuyuan@mail.sdu.edu.cn", role = c("aut", "cre"))
   )
 Author: Xiuyuan Jin
 Maintainer: The package maintainer <jinxiuyuan@mail.sdu.edu.cn>
