@@ -1,2 +1,4 @@
 # NeRiT
-Please download "NeRiT_0.1.1.tar.gz", then install NeRiT package locally.
+# install.packages("devtools")
+library(devtools)
+install_github("XiuyuanJin/NeRiT")
