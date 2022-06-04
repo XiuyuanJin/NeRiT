@@ -1,4 +1,5 @@
 # NeRiT
+NeRiT (Network regression method in TWAS) is a package for detecting the association between a given network and phenotypes of interest.  
 
 # Installation
 It is easy to install the development version of NeRiT package using the 'devtools' package.  
